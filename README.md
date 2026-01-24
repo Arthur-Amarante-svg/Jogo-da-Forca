@@ -15,8 +15,7 @@ Um jogo da forca, desenvolvido na linguagem python
 
 ### Instalação e Pré-requisitos:
 
-Para executar o programa é preciso do python na versão 3.14 que pode ser encontrada no site do python. Também é necessario a instalação do Visual Code, no site do Visual Code.
-Uma vez com estes instalados, é preciso instalar os arquivos words.txt e o Jogo_da_forca.py, presentes neste repositório. Por fim abra o jogo_da_forca.py dentro do Visual code e inicie o terminal para poder jogar 
+Para executar o programa é preciso do python na versão 3.14 que pode ser encontrada no site do python.Uma vez com este instalado, é preciso instalar os arquivos words.txt e o Jogo_da_forca.py, presentes neste repositório. Por fim abra o terminal do python, digite "cd (o caminho onde esta o programa)" e digite o comando "python Jogo_da_forca.py", e então você poderá jogar
 
 ### Uso e Exemplos de Comando:
 Quando se iniciar o programa, aparecerá a palavra de forma oculta por travessões, as tentivas restantes(se chegarem a zero você perde), as letras que você tentou e por último te pede para digitar uma letra(!está deve ser sempre maiuscula!). Conforme você acerta as letras eles aparecem no campo palavra. se descobrir todas as letras você ganha.

@@ -26,6 +26,6 @@ README.md: contém a descrição do projeto.
 
 ### Licença: 
 
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a MIT License
 
     

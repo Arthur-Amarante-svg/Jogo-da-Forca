@@ -7,7 +7,11 @@ Um jogo da forca, desenvolvido na linguagem python
 
 3.14
 
-### como utilizar:
+### Instalação e Pré-requisitos:
+
+Para executar o programa é preciso do python na versão 3.14 que pode ser encontrada no site do python. Também é necessario a instalação do Visual Code, no site do Visual Code.
+
+### Uso e Exemplos de Comando:
 Quando se iniciar o programa, aparecerá a palavra de forma oculta por travessões, as tentivas restantes(se chegarem a zero você perde), as letras que você tentou e por último te pede para digitar uma letra(!está deve ser sempre maiuscula!). Conforme você acerta as letras eles aparecem no campo palavra. se descobrir todas as letras você ganha.
 
 ### Estrutura do Projeto:

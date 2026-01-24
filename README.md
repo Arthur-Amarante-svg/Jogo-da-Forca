@@ -29,7 +29,9 @@ Jogo da Forca/
 ├── LICENSE
 └── image/  
         ├── imagem 
-        ├── 
+        ├── Captura de tela 2026-01-21 104356.png
+        ├── Captura de tela 2026-01-24 105541.png
+        ├── Captura de tela 2026-01-24 105640.png
 
     
 Jogo_da_forca.py: é o arquivo onde está o código principal.
